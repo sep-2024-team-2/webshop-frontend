@@ -1,0 +1,28 @@
+.service-card {
+  border: 1px solid #ccc;
+  padding: 16px;
+  margin: 10px;
+  width: 200px;
+  text-align: center;
+}
+
+.service-card h3 {
+  font-size: 1.2em;
+}
+
+.service-card .price {
+  color: green;
+  font-weight: bold;
+}
+
+.service-card button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.service-card button:hover {
+  background-color: #45a049;
+}
